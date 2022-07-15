@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I am Suman Sourabh
+
+An aspiring Frontend Developer based in India <br/><br/>
+:computer: Well versed with HTML & CSS<br/> 
+:computer: Currently learning JavaScript 
 
 <!--
 **Sumansourabh14/Sumansourabh14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
