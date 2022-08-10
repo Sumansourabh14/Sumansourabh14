@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Suman Sourabh
 
 An aspiring Frontend Developer based in India <br/><br/>
-:computer: Technologies I am good at: HTML, CSS, JavaScript
+:computer: Technologies I am good at: HTML, CSS, JavaScript</br>
 :computer: Technologies I am familar with: Bootstrap, Git, Python
 
 <!--
