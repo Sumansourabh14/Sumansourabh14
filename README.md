@@ -1,8 +1,8 @@
 ### Hi there 👋 I am Suman Sourabh
 
 An aspiring Frontend Developer based in India <br/><br/>
-:computer: Well versed with HTML & CSS<br/> 
-:computer: Currently learning JavaScript 
+:computer: Technologies I am good at: HTML, CSS, JavaScript
+:computer: Technologies I am familar with: Bootstrap, Git, Python
 
 <!--
 **Sumansourabh14/Sumansourabh14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
