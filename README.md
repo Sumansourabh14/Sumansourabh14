@@ -1,8 +1,33 @@
-### Hi there 👋 I am Suman Sourabh
+# Hi, I am Suman Sourabh
 
-An aspiring Frontend Developer based in India <br/><br/>
-:computer: Technologies I am good at: HTML, CSS, JavaScript</br>
-:computer: Technologies I am familar with: Bootstrap, Git, Python
+Learning Front End Web Development.
+
+> Checkout my portfolio [here](https://sumansourabh14.github.io/Portfolio-Website---Suman-Sourabh/).
+
+## Skills
+- JavaScript
+- HTML
+- CSS
+- Git
+- Bootstrap
+- SEO
+- Sass
+- Python
+- WordPress
+- Figma
+
+## Profile Links
+
+1. [LeetCode](https://leetcode.com/sumansourabh/)
+2. [LinkedIn](https://www.linkedin.com/in/sumansourabh14/)
+
+## Contact Me
+
+- Email: sumsourabh14@gmail.com
+
+
+
+
 
 <!--
 **Sumansourabh14/Sumansourabh14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
