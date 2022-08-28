@@ -1,6 +1,6 @@
 # Hi, I am Suman Sourabh
 
-Learning Front End Web Development.
+Currently learning React (Front End Web Development)
 
 > Checkout my portfolio [here](https://sumansourabh14.github.io/Portfolio-Website---Suman-Sourabh/).
 
