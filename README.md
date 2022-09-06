@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suman Sourabh</h1>
-<h2 align="center">Looking for a frontend developer opportunity</h2>
+<h2 align="center">Looking for a Frontend Web Developer opportunity</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumansourabh14&label=Profile%20views&color=0e75b6&style=flat" alt="sumansourabh14" /> </p>
 
