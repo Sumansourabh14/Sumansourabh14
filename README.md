@@ -5,8 +5,6 @@
 
 <p>Check out my portfolio <a href="https://sumansourabh.netlify.app/">here</a></p>
 
-- 🌱 I’m currently learning **React**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sumanso77216044" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sumanso77216044" height="30" width="40" /></a>
