@@ -5,7 +5,7 @@
 
 <p>Check out my portfolio <a href="https://sumansourabh.netlify.app/">here</a></p>
 
-### Skills
+## Skills
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -27,7 +27,15 @@
 <a href="https://www.leetcode.com/https://leetcode.com/sumansourabh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/sumansourabh/" height="30" width="40" /></a>
 </p>
 
-### Stats
+## Projects
+
+| S.No | Project Name | Tech Used | Github |
+|:---:|:---:|:---:|:---:|
+| 1 | [Portfolio Website](https://sumansourabh.netlify.app/) | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) | [Link](https://github.com/Sumansourabh14/Portfolio-v2)
+| 2 | [Movies Website with API](https://sumansourabh14.github.io/Movies-TV-Website/) | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | [Link](https://github.com/Sumansourabh14/Movies-TV-Website) |
+| 3 | [Apple Website Clone](https://apple-clone-suman-sourabh.netlify.app/) | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) | [Link](https://github.com/Sumansourabh14/apple-website-clone-v1) |
+
+## Stats
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumansourabh14&show_icons=true&locale=en" alt="sumansourabh14" /></p>
 
