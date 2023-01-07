@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm <a href="https://sumansourabh.netlify.app/">Suman Sourabh</a></h1>
 <h2 align="center">Aspiring Web Developer</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumansourabh14&label=Profile%20views&color=0e75b6&style=flat" alt="sumansourabh14" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumansourabh14&label=Profile%20views&color=0e75b6&style=flat" alt="sumansourabh14" /> </p> -->
 
 ## Check out my portfolio <a href="https://sumansourabh.netlify.app/">here</a>
 
