@@ -4,7 +4,6 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumansourabh14&label=Profile%20views&color=0e75b6&style=flat" alt="sumansourabh14" /> </p> -->
 
 ## Check out my portfolio <a href="https://sumansourabh.netlify.app/">here</a>
-## <a href="https://sumansourabh.in/">My tech blog about web development</a>
 
 ## Tools/Frameworks
 ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
